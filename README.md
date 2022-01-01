@@ -12,6 +12,7 @@
  10. python3.8 -m pip install qiskit_aer-0.10.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
  11. nano "home/user-name/.bashrc" (then write <code>export LD_PRELOAD="~/.local/lib/python3.8/site-packages/qiskit_aer.libs/libgomp-d22c30c5.so.1.0.0"</code> in the end of the file)
  12. It's okay
-<hr>
+
 ## Run Qiskit
+
 It can be only runned in python3.8 
