@@ -10,5 +10,5 @@
  8. python3.8 -m pip install qiskit-0.34.0.tar.gz
  9. wget https://files.pythonhosted.org/packages/9d/b8/13830a3bc96ff2da54cc100e75d9842879c70c3c22cfb1dc58620ffdbd89/qiskit_aer-0.10.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
  10. python3.8 -m pip install qiskit_aer-0.10.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
- 11. nano ~/.bashrc (then write <code>export LD_PRELOAD="~/.local/lib/python3.8/site-packages/qiskit_aer.libs/libgomp-d22c30c5.so.1.0.0"</code> in the end of the file)
+ 11. "nano ~/.bashrc" (then write <code>export LD_PRELOAD="~/.local/lib/python3.8/site-packages/qiskit_aer.libs/libgomp-d22c30c5.so.1.0.0"</code> in the end of the file)
  12. It's okay
