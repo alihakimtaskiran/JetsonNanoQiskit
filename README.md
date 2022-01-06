@@ -1,4 +1,4 @@
-# How to install qiskit on nvidia-jetson nano?
+# How to install qiskit on nvidia-jetson nano:
  After a clean installation, follow the following steps:
  1. sudo apt update
  2. sudo apt update
