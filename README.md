@@ -3,7 +3,7 @@
  1. sudo apt update
  2. sudo apt update
  3. sudo apt install python3.8 nano
- 4. sudo apt install python3.8-pip
+ 4. sudo apt install python3-pip
  5. python3.8 -m pip install --upgrade pip setuptools wheel
  6. cd Downloads
  7. wget https://files.pythonhosted.org/packages/2e/e4/4e6d17c0e23139977e3aa654de5ca095742280d3c9668d7341345207417a/qiskit-0.34.0.tar.gz
